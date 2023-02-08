@@ -10,5 +10,5 @@ Me chamo Antonio Marcos, sou um pogramador Front-End, estou me desenvolvendo e e
 
 -> Sobre mim: 
 
--- Sou um jovem de apenas 17 anos, apaixonado em aprender e crescer, sempre gostei de tecnologia e carros, e a programação foi onde me encontrei! Sou um jovem curioso, gosto de saber como as coisas funcionam, o que fazem, etc. Sigo me desenvolvendo e aprendendo novas tecnologias para me formar e me transformar em um desenvolvedor 
+-- Sou um jovem de apenas 17 anos, apaixonado em aprender e me desenvolver, sempre gostei de tecnologia e carros, e a programação foi onde me encontrei! Sou um jovem curioso, gosto de saber como as coisas funcionam, o que fazem, etc. Sigo me desenvolvendo e aprendendo novas tecnologias para me formar e me transformar em um desenvolvedor 
 FULL STACK :heart_eyes:
